@@ -6,6 +6,3 @@ change master
 
 
 dev dev
-
-master 
-
