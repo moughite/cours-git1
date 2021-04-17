@@ -6,8 +6,3 @@ change master
 
 
 dev dev
-<<<<<<< HEAD
-=======
-
-tester encore
->>>>>>> developement
